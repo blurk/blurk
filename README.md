@@ -1,3 +1,5 @@
+![Banner](show.gif)
+
 ### Hi there and welcome to my Gihub page 👋
 
 My name is Sinh and I'm a Front-end Geek from Ha Noi, Viet Nam. 
