@@ -1,8 +1,6 @@
 ### Hi there and welcome to my Gihub page 👋
 
-My name is Sinh and I'm a Front-end developer from Ha Noi, Viet Nam. 
-
----
+My name is Sinh and I'm a Front-end Geek from Ha Noi, Viet Nam. 
 
 <img alt="banner" align="right" src="banner.gif" width="50%" />
 
@@ -25,16 +23,12 @@ My name is Sinh and I'm a Front-end developer from Ha Noi, Viet Nam.
 - I'm deep diving into Front-end Development now
 - I'm Developing my Portfolio
 
----
-
 ### Contact me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/Sinh3996/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/sinh3996/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/13lurk)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Nsinh6745@gmail.com)
-
----
 
 ### Github Stats
 
