@@ -1,23 +1,25 @@
-![Banner GIF](banner.gif)
-
-### Hi there and welcom to my Gihub page 👋
+### Hi there and welcome to my Gihub page 👋
 
 My name is Sinh and I'm a Front-end developer from Ha Noi, Viet Nam. 
 
 ---
+
+<img alt="banner" align="right" src="banner.gif" width="50%" />
 
 ### What do I do?
 
 ![Reactjs](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Vuejs](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)
+![Nodejs](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+<br/>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat")
 ![Css](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat")
 ![Scss](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat")
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat")
-![Nodejs](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat")
+
 
 - I'm currently a third year student at Electric Power University(EPU)
 - I'm deep diving into Front-end Development now
