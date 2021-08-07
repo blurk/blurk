@@ -1,10 +1,8 @@
 ![Banner](show.gif)
 
-### Hi there and welcome to my Gihub page 👋
+### Hello 👋
 
 My name is Sinh and I'm a Front-end Geek from Ha Noi, Viet Nam. 
-
-<img alt="banner" align="right" src="banner.gif" width="50%" />
 
 ### What do I do?
 
