@@ -21,9 +21,8 @@ My name is Sinh and I'm a Front-end Geek from Ha Noi, Viet Nam.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat")
 
 
-- I'm currently a third year student at Electric Power University(EPU)
-- I'm deep diving into Front-end Development now
-- I'm Developing my Portfolio
+- I'm currently studying at Electric Power University (EPU)
+- I'm love diving into Front-end Development, UI/UX
 
 ### Contact me
 
