@@ -1,4 +1,4 @@
-![Banner](banner.gif)
+![Banner](show.gif)
 
 ### Hello 👋
 
