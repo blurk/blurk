@@ -15,7 +15,12 @@ My name is Sinh and I do Front-end Web.
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat")
 
-- I'm love diving into Front-end Web Development, UI/UX
+### Things make me like doing Front-end web
+
+- Make simple but look nice thing
+- A11y related
+- Make Performance better
+- Animation experience on the web
 
 ### Contact me
 
@@ -28,7 +33,7 @@ My name is Sinh and I do Front-end Web.
 
 [![Blurk's github stats](https://github-readme-stats.vercel.app/api?username=blurk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### I'm addicted to reading articles
+### I'm also addicted to reading articles
 
 <a href="https://app.daily.dev/blurk"><img src="https://api.daily.dev/devcards/a5b8bc2b8bec41c3aa3d44ba0ef76c60.png?r=vmv" width="400" alt="blurk's Dev Card"/></a>
 
