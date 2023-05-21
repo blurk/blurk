@@ -1,24 +1,21 @@
-![Banner](show.gif)
-
 ### Hello 👋
 
-My name is Sinh and I'm a Front-end Geek from Ha Noi, Viet Nam. 
+My name is Sinh and I do Front-end Web.
 
-### What do I do?
+### What I've worked with?
 
+#### JS frameworks
 ![Reactjs](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=flat)
 <br/>
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat")
-![Css](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat")
+#### CSS related
 ![Scss](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat")
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat")
 
-
-- I'm currently studying at Electric Power University (EPU)
-- I'm love diving into Front-end Development, UI/UX
+- I'm love diving into Front-end Web Development, UI/UX
 
 ### Contact me
 
