@@ -4,11 +4,12 @@ My name is Sinh and I do Front-end Web.
 
 ### What I've worked with?
 
-#### JS frameworks
-![Reactjs](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
+#### JS Related
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=flat)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
 <br/>
 #### CSS related
 ![Scss](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat")
