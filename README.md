@@ -25,7 +25,7 @@ My name is Sinh and I do Front-end Web.
 
 ### Contact me
 
-[![Linkedn](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://twitter.com/13lurk](https://www.linkedin.com/in/sinh-nguyen-a092a71a5/))
+[![Linkedn](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sinh-nguyen-a092a71a5/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/13lurk)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Nsinh6745@gmail.com)
 
