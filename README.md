@@ -28,7 +28,7 @@ I'm enjoy and comfortable when working with Front-end Web.
 
 [![Blurk's github stats](https://github-readme-stats.vercel.app/api?username=blurk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### I'm also addicted to reading articles
+### I'm also like to reading
 
 <a href="https://app.daily.dev/blurk"><img src="https://api.daily.dev/devcards/a5b8bc2b8bec41c3aa3d44ba0ef76c60.png?r=vmv" width="400" alt="blurk's Dev Card"/></a>
 
