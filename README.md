@@ -1,7 +1,8 @@
 ### Hello 👋
 
 My name is Sinh.
-I'm enjoy and comfortable work with the Front-end Web.
+
+I'm enjoy and comfortable when working with Front-end Web.
 
 ### What I've worked with?
 
