@@ -1,6 +1,7 @@
 ### Hello 👋
 
-My name is Sinh and I do Front-end Web.
+My name is Sinh.
+I'm enjoy and comfortable work with the Front-end Web.
 
 ### What I've worked with?
 
@@ -15,13 +16,6 @@ My name is Sinh and I do Front-end Web.
 ![Scss](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat")
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat")
-
-### Things make me like doing Front-end web
-
-- Make simple but look nice thing
-- A11y related
-- Make Performance better
-- Animation experience on the web
 
 ### Contact me
 
