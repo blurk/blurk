@@ -24,10 +24,6 @@ I'm enjoy and comfortable when working with Front-end Web.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/13lurk)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Nsinh6745@gmail.com)
 
-### Github Stats
-
-[![Blurk's github stats](https://github-readme-stats.vercel.app/api?username=blurk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### I'm also like to reading
 
 <a href="https://app.daily.dev/blurk"><img src="https://api.daily.dev/devcards/a5b8bc2b8bec41c3aa3d44ba0ef76c60.png?r=vmv" width="400" alt="blurk's Dev Card"/></a>
